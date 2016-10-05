@@ -28,7 +28,10 @@ to your xml file where you want to add ImageViewZoom<br>
             .fit()
             .into(<span style="color:#9876aa;">mImage</span>)<span style="color:#cc7832;">;</span></pre>
 <p><br>
-to your java file to show image and zoom it.<br>
+to your java file to show image and zoom it.</p>
+<p>Result:</p>
+<p><img border="0" src="http://img4.hostingpics.net/pics/258767121.png"><img border="0" src="http://img4.hostingpics.net/pics/956153762.png"><br>
+<br>
 <br>
 Enjoy Developping with simple trics from AymenSoft<br>
 WebSite: www.aymen-soft.com<br>
