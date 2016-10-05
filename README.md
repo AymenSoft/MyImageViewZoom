@@ -2,8 +2,10 @@
 Use ImageViewZoom to make zoom in ImageView<br>
 This project use picasso to import pictures from internet<br>
 1-add:<br>
-compile 'it.sephiroth.android.library.imagezoom:imagezoom:1.0.5'<br>
-compile 'com.squareup.picasso:picasso:2.5.2'<br>
+&nbsp;</p>
+<pre style="background-color:#2b2b2b;color:#a9b7c6;font-family:'Courier New';font-size:12,0pt;">compile <span style="color:#6a8759;">'it.sephiroth.android.library.imagezoom:imagezoom:1.0.5'
+</span>compile <span style="color:#6a8759;">'com.squareup.picasso:picasso:2.5.2'</span></pre>
+<p><br>
 to your build.gradle and rebuild your project.<br>
 2-import imageviewzoom module to your project<br>
 3-add:<br>
@@ -31,7 +33,6 @@ to your xml file where you want to add ImageViewZoom<br>
 to your java file to show image and zoom it.</p>
 <p>Result:</p>
 <p><img border="0" src="http://img4.hostingpics.net/pics/258767121.png"><img border="0" src="http://img4.hostingpics.net/pics/956153762.png"><br>
-<br>
 <br>
 Enjoy Developping with simple trics from AymenSoft<br>
 WebSite: www.aymen-soft.com<br>
