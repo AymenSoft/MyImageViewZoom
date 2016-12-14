@@ -1,4 +1,4 @@
-<p># MyImageViewZoom<br>
+# MyImageViewZoom
 Use ImageViewZoom to make zoom in ImageView<br>
 This project use picasso to import pictures from internet<br>
 1-add:<br>
